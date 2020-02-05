@@ -11,7 +11,7 @@
   "keywords": [ 
     "cordova",
     "ecosystem:cordova",
-    "cordova-ios",
+    "cordova-ios"
   ],
   "author": "Attinad", 
   "license": "MIT"
