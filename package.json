@@ -1,0 +1,18 @@
+{
+  "name": "native-wkwebview", // Your Plugin Name (CamalCased)
+  "version": "0.0.1", // Plugin version.
+  "description": "Your Plugin Description", // What you want the desc to say.
+  "cordova": {
+    "id": "cordova-plugin-native-wkwebview", // same as your Github Repo.
+    "platforms": [ // The platforms you're targeting. 
+      "ios" // We're only targeting IOS for this tutorial.
+    ]
+  },
+  "keywords": [ // Keywords that your plugin will be searched by. 
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios",
+  ],
+  "author": "Attinad", // Your name
+  "license": "MIT" // The license you want (recommended to be MIT)
+}
